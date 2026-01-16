@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Wake Developer
+
 
 I am a student majoring in **AI & Robotics**, passionate about building intelligent systems.  
 Currently developing my own AI Voice Assistant, **"Wake"**.
 
 ---
 
-### 🤖 My Projects
+
 - **🎙️ Project Wake:** An AI Voice Assistant (Personal JARVIS)
 - **🛒 [Wake Market Sniper](https://github.com/mooonjuuun-cyber/Wake-Market-Sniper):** Automated trading bot for Used Markets (BunJang, Karrot, Joonggonara)
 
